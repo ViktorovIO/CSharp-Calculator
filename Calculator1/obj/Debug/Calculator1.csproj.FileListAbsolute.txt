@@ -1,0 +1,10 @@
+C:\Users\Astw\source\repos\Calculator1\Calculator1\bin\Debug\Calculator1.exe.config
+C:\Users\Astw\source\repos\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+C:\Users\Astw\source\repos\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+C:\Users\Astw\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.csprojAssemblyReference.cache
+C:\Users\Astw\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.Form1.resources
+C:\Users\Astw\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.Properties.Resources.resources
+C:\Users\Astw\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.GenerateResource.cache
+C:\Users\Astw\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.CoreCompileInputs.cache
+C:\Users\Astw\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.exe
+C:\Users\Astw\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.pdb
